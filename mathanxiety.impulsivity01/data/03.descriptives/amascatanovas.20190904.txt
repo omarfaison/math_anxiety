@@ -1,0 +1,378 @@
+[1] "amas_learn ANOVA"
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+amascat      1  29.61  29.613   99.16 2.31e-13 ***
+Residuals   49  14.63   0.299                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr       upr p adj
+lo-hi -1.524308 -1.831917 -1.216699     0
+
+[1] "*** "
+[1] "amas_eval ANOVA"
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+amascat      1  38.79   38.79   84.33 3.15e-12 ***
+Residuals   49  22.54    0.46                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr       upr p adj
+lo-hi -1.744615 -2.126384 -1.362847     0
+
+[1] "*** "
+[1] "amas ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)    
+amascat      1  33.54   33.54   167.2 <2e-16 ***
+Residuals   49   9.83    0.20                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr       upr p adj
+lo-hi -1.622222 -1.874308 -1.370136     0
+
+[1] "*** "
+[1] "bis_attention ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.027 0.02679   0.096  0.758
+Residuals   49 13.683 0.27925               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+             diff        lwr       upr     p adj
+lo-hi -0.04584615 -0.3433041 0.2516118 0.7580806
+
+[1] "*** "
+[1] "bis_coginstable ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.484  0.4840   1.367  0.248
+Residuals   49 17.350  0.3541               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr       upr     p adj
+lo-hi -0.1948718 -0.5298293 0.1400857 0.2480066
+
+[1] "*** "
+[1] "bis_motor ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.027 0.02741   0.144  0.706
+Residuals   49  9.323 0.19026               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr       upr     p adj
+lo-hi 0.04637363 -0.1991573 0.2919046 0.7059194
+
+[1] "*** "
+[1] "bis_persev ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.236  0.2363    1.55  0.219
+Residuals   49  7.470  0.1524               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr        upr    p adj
+lo-hi -0.1361538 -0.3559316 0.08362392 0.219073
+
+[1] "*** "
+[1] "bis_selfcntrl ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.243  0.2425   0.911  0.345
+Residuals   49 13.049  0.2663               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr       upr     p adj
+lo-hi -0.1379487 -0.4284379 0.1525404 0.3446083
+
+[1] "*** "
+[1] "bis_cogcomplex ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.086 0.08602   0.401  0.529
+Residuals   49 10.502 0.21433               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+             diff        lwr       upr     p adj
+lo-hi -0.08215385 -0.3427543 0.1784466 0.5293433
+
+[1] "*** "
+[1] "bis_ATT ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.132  0.1319   0.686  0.412
+Residuals   49  9.426  0.1924               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr       upr     p adj
+lo-hi -0.1017308 -0.3486139 0.1451523 0.4116479
+
+[1] "*** "
+[1] "bis_MTR ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.005  0.0051   0.039  0.845
+Residuals   49  6.476  0.1321               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+       diff        lwr       upr     p adj
+lo-hi -0.02 -0.2246315 0.1846315 0.8451023
+
+[1] "*** "
+[1] "bis_NPL ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.162  0.1616   0.899  0.348
+Residuals   49  8.801  0.1796               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr       upr    p adj
+lo-hi -0.1125874 -0.3511536 0.1259788 0.347587
+
+[1] "*** "
+[1] "bis ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1  0.073 0.07312   0.813  0.372
+Residuals   49  4.409 0.08997               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+             diff        lwr        upr     p adj
+lo-hi -0.07574359 -0.2445903 0.09310311 0.3717414
+
+[1] "*** "
+[1] "tuckman ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   1.57  1.5681   2.378   0.13
+Residuals   49  32.32  0.6595               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff        lwr      upr     p adj
+lo-hi 0.3507692 -0.1063726 0.807911 0.1295158
+
+[1] "*** "
+[1] "easymathtime ANOVA"
+            Df   Sum Sq Mean Sq F value  Pr(>F)   
+amascat      1  4722648 4722648   11.11 0.00164 **
+Residuals   49 20834216  425188                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr       upr     p adj
+lo-hi -608.7251 -975.7734 -241.6768 0.0016427
+
+[1] "*** "
+[1] "hardmathtime ANOVA"
+            Df   Sum Sq Mean Sq F value Pr(>F)  
+amascat      1  1262518 1262518   4.018 0.0506 .
+Residuals   49 15396956  314224                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+          diff        lwr      upr     p adj
+lo-hi 314.7366 -0.8016772 630.2749 0.0505624
+
+[1] "*** "
+[1] "easyverbaltime ANOVA"
+            Df   Sum Sq Mean Sq F value Pr(>F)
+amascat      1   244712  244712   1.153  0.288
+Residuals   49 10395720  212158               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr      upr     p adj
+lo-hi -138.5659 -397.8417 120.7099 0.2880894
+
+[1] "*** "
+[1] "hardverbaltime ANOVA"
+            Df   Sum Sq Mean Sq F value Pr(>F)
+amascat      1   126931  126931   0.329  0.569
+Residuals   49 18896066  385634               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr      upr     p adj
+lo-hi -99.79579 -449.3547 249.7631 0.5687849
+
+[1] "*** "
+[1] "easymathcorrect ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)  
+amascat      1   8.13   8.126   4.257 0.0444 *
+Residuals   49  93.52   1.909                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff        lwr      upr     p adj
+lo-hi 0.7984615 0.02080028 1.576123 0.0444003
+
+[1] "*** "
+[1] "hardmathcorrect ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   1.68   1.680   0.762  0.387
+Residuals   49 108.01   2.204               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff        lwr      upr     p adj
+lo-hi 0.3630769 -0.4726394 1.198793 0.3868889
+
+[1] "*** "
+[1] "easyverbalcorrect ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   2.37   2.365   1.338  0.253
+Residuals   49  86.62   1.768               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr      upr     p adj
+lo-hi 0.4307692 -0.317628 1.179166 0.2530074
+
+[1] "*** "
+[1] "hardverbalcorrect ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   5.02   5.022   2.591  0.114
+Residuals   49  94.98   1.938               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff        lwr      upr     p adj
+lo-hi 0.6276923 -0.1560029 1.411388 0.1139211
+
+[1] "*** "
+[1] "mathcorrectdif ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   2.42   2.416    0.65  0.424
+Residuals   49 182.09   3.716               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff        lwr      upr     p adj
+lo-hi 0.4353846 -0.6497466 1.520516 0.4239677
+
+[1] "*** "
+[1] "verbalcorrectdif ANOVA"
+            Df Sum Sq Mean Sq F value Pr(>F)
+amascat      1   0.49  0.4942   0.268  0.607
+Residuals   49  90.49  1.8467               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+            diff        lwr      upr     p adj
+lo-hi -0.1969231 -0.9618601 0.568014 0.6072472
+
+[1] "*** "
+[1] "mathtimedif ANOVA"
+            Df   Sum Sq  Mean Sq F value  Pr(>F)    
+amascat      1 10868784 10868784   14.05 0.00047 ***
+Residuals   49 37902783   773526                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+           diff       lwr       upr   p adj
+lo-hi -923.4617 -1418.536 -428.3876 0.00047
+
+[1] "*** "
+[1] "verbaltimedif ANOVA"
+            Df   Sum Sq Mean Sq F value Pr(>F)
+amascat      1    19157   19157   0.046  0.832
+Residuals   49 20556178  419514               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = value ~ amascat, data = graphdata)
+
+$amascat
+          diff      lwr      upr     p adj
+lo-hi -38.7701 -403.361 325.8208 0.8316713
+
+[1] "*** "

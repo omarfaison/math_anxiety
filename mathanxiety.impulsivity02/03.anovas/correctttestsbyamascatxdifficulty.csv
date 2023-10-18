@@ -1,0 +1,7 @@
+"group1","group2","p.value"
+"hi:hard","hi:easy",1.69980583498258e-13
+"lo:easy","hi:easy",0.210973608792096
+"lo:hard","hi:easy",2.52431227336436e-09
+"lo:easy","hi:hard",9.32714444930473e-20
+"lo:hard","hi:hard",0.533502302082977
+"lo:hard","lo:easy",4.39730937310554e-15

@@ -1,0 +1,7 @@
+"group1","group2","p.value"
+"easy:verbal","easy:math",3.77070968708744e-12
+"hard:math","easy:math",1.4500792187097e-12
+"hard:verbal","easy:math",0.247313504977263
+"hard:math","easy:verbal",1.72773060649149e-35
+"hard:verbal","easy:verbal",7.57563467234441e-18
+"hard:verbal","hard:math",1.54055128856878e-07

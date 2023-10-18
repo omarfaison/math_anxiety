@@ -1,0 +1,7 @@
+"group1","group2","p.value"
+"hi:verbal","hi:math",0.157278278552324
+"lo:math","hi:math",0.716957248312049
+"lo:verbal","hi:math",0.00175777537444086
+"lo:math","hi:verbal",1
+"lo:verbal","hi:verbal",0.934569273359227
+"lo:verbal","lo:math",0.199493809302746
